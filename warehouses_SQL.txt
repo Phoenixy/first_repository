@@ -1,2 +1,4 @@
 http://prezi.com/ilrr1h32cv8x - Data Warehousing
 http://prezi.com/8f4c947cqdsg - SQLite
+
+SELECT * FROM Album
